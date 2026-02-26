@@ -1,5 +1,3 @@
-![Hero](assets/hero.png)
-
 <p align="center">
   <img src="./assets/logo.png" alt="Loomix" width="200" />
 </p>
@@ -97,7 +95,7 @@ Market intelligence platform — audience analysis, competitor tracking, trend d
 
 ## About
 
-Built by **Daniel dos Santo Reis** — AI Engineer & Multi-Agent Systems Architect based in Zurich, Switzerland.
+Built by **Daniel dos Santos Reis** — AI Engineer & Multi-Agent Systems Architect based in Zurich, Switzerland.
 
 12+ years of software engineering experience. 720K+ lines of code shipped. Contributor to [OpenClaw](https://github.com/openclaw/openclaw) (232K stars).
 
