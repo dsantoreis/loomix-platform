@@ -1,3 +1,5 @@
+![Hero](assets/hero.png)
+
 <p align="center">
   <img src="./assets/logo.png" alt="Loomix" width="200" />
 </p>
